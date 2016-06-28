@@ -1,0 +1,5 @@
+GetNewFactIntent a quote
+GetNewFactIntent tell me a quote
+GetNewFactIntent give me a quote
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
